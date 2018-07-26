@@ -6,9 +6,9 @@ Requirements are added as a text file.
 
 Detecting if requirements are conflicting before running the system:
 
-https://github.com/Kaluzhskaia/FreeRTOS-task-monitor/blob/master/error.jpg
+![](https://github.com/Kaluzhskaia/FreeRTOS-task-monitor/blob/master/error.jpg)
 
 
 Detecting missed requirements and deadlines in run-time:
 
-https://github.com/Kaluzhskaia/FreeRTOS-task-monitor/blob/master/error2.jpg
+![](https://github.com/Kaluzhskaia/FreeRTOS-task-monitor/blob/master/error2.jpg)
