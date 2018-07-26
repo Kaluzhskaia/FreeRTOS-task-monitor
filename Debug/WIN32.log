@@ -1,0 +1,46 @@
+﻿cl : командная строка warning D9002: пропуск неизвестного параметра "/wc4574"
+cl : командная строка warning D9002: пропуск неизвестного параметра "-mms-bitfields"
+  main_blinky.c
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(70): warning C4477: "fprintf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "gpointer"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(67): warning C4100: user_data: неиспользованный формальный параметр
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(67): warning C4100: value: неиспользованный формальный параметр
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(99): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(174): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(162): warning C4101: xHandle: неиспользованная локальная переменная
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(248): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(236): warning C4101: xHandle: неиспользованная локальная переменная
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(323): warning C4047: функция: "char" отличается по уровням косвенного обращения от "gpointer"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(323): warning C4024: digit_to_int: различные типы для формального и фактического параметров 1
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(326): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "gpointer"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(315): warning C4100: user_data: неиспользованный формальный параметр
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(315): warning C4100: value: неиспользованный формальный параметр
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(333): warning C4189: removed: локальная переменная инициализирована, но не использована
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(341): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(348): warning C4022: g_hash_table_lookup: несоответствие указателя для фактического параметра 2
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(350): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(412): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "gpointer"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(410): warning C4100: user_data: неиспользованный формальный параметр
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(416): warning C4774: "fprintf": ожидаемая в аргументе "2" строка форматирования не является строковым литералом
+  c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(416): note: например вместо printf(name); используйте printf("%s", name);, так как описатели формата в "name" могут вызвать проблемы с безопасностью
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(414): warning C4100: user_data: неиспользованный формальный параметр
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(429): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(484): warning C4022: g_hash_table_insert: несоответствие указателя для фактического параметра 2
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(484): warning C4022: g_hash_table_insert: несоответствие указателя для фактического параметра 3
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(492): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(535): warning C4022: g_hash_table_insert: несоответствие указателя для фактического параметра 2
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(543): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(547): warning C4022: g_hash_table_lookup_extended: несоответствие указателя для фактического параметра 2
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(550): warning C4022: g_hash_table_lookup: несоответствие указателя для фактического параметра 2
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(551): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(566): warning C4022: g_hash_table_lookup: несоответствие указателя для фактического параметра 2
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(582): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(586): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "TaskFunction_t"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(587): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "TaskFunction_t"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(588): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "TaskFunction_t"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(589): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "TaskFunction_t"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(590): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "TaskFunction_t"
+c:\users\alina\desktop\newrtos\freertosv10.0.0\freertos\demo\win32-msvc\main_blinky.c(565): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "4" имеет тип "gpointer"
+  WIN32.vcxproj -> C:\Users\Alina\Desktop\newRTOS\FreeRTOSv10.0.0\FreeRTOS\Demo\WIN32-MSVC\.\Debug\RTOSDemo.exe
